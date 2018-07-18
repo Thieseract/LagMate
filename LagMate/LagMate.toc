@@ -1,0 +1,5 @@
+## Interface: 80000
+## Title: LagMate
+## Notes: Addon for displaying in game lag
+LagMate.lua
+LagMate.xml
