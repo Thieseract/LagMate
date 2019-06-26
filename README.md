@@ -1,1 +1,3 @@
 # LagMate
+
+Wrote this for my own use while raiding on a very unstable connection so that I could easily see my latency as well as having the color change be noticeable enough even if I wasn't looking straight at it.  Very lightweight, only deals with lag, only updates as often as your latency updates. Under 100 ms the ring is green, 101-250 is yellow, and 251+ is red. You can use /lag to print latency to your chat and click on the lag number in the middle of the ring to force it to update the lag, this should never be necessary since the addon updates at the same rate as you get new information from the servers but it is there as an option.
